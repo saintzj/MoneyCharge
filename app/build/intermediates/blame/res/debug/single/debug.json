@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_data.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\data.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_account.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\account.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_author.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\author.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_pay.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\pay.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_paydata.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\paydata.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_up.gif.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\btn_up.gif"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_gvitem.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\gvitem.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_incomedata.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\incomedata.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_infomanage.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\infomanage.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_modifynote.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\modifynote.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_modifyinp.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\modifyinp.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_addincome.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\addincome.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_income.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\income.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_showinfo.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\showinfo.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_pidata.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\pidata.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_description.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\description.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_index.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_list_corner_border.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\app_list_corner_border.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_changepwd.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\changepwd.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_addpay.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\addpay.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pay.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\pay.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nodata.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\nodata.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_description.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\description.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\data.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_note.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\note.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_down.gif.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\btn_down.gif"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_inptypemanager.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\inptypemanager.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\menu_index.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\menu\\index.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_income.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\income.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hint.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\hint.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_note.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\note.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_addnote.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\addnote.xml"
+    },
+    {
+        "merged": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "D:\\android\\099-基于AndroidStudio+SQlite开发的财务管理系统\\099-基于AndroidStudio+SQlite开发的财务管理系统\\MoneyCharge\\app\\src\\main\\res\\layout\\login.xml"
+    }
+]

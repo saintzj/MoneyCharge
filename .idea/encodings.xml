@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/About.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Account.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/AddIncome.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/AddNote.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/AddPay.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Author.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/ChangePwd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Data.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Description.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/InPtypeManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Income.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/IncomeData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Index.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/ModifyInP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/ModifyNote.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Note.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/PIData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Pay.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/PayData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cwp/cmoneycharge/Setting.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/dao/AccountDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/dao/DBOpenHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/dao/IncomeDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/dao/ItypeDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/dao/NoteDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/dao/PayDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/dao/PtypeDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/model/Tb_income.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/model/Tb_itype.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/model/Tb_pay.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cwp/moneycharge/model/Tb_ptype.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

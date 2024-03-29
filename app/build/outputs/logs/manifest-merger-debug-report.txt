@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:7:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:8:9-38
+application
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:10:5-47:19
+	android:label
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.cwp.cmoneycharge.Index
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:16:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.cwp.cmoneycharge.Account
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:24:9-75
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:24:19-62
+activity#com.cwp.cmoneycharge.About
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:25:9-73
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:25:19-60
+activity#com.cwp.cmoneycharge.AddIncome
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:26:9-77
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:26:19-64
+activity#com.cwp.cmoneycharge.AddNote
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:27:9-75
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:27:19-62
+activity#com.cwp.cmoneycharge.AddPay
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:28:9-74
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:28:19-61
+activity#com.cwp.cmoneycharge.Author
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:29:9-74
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:29:19-61
+activity#com.cwp.cmoneycharge.ChangePwd
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:30:9-77
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:30:19-64
+activity#com.cwp.cmoneycharge.Data
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:31:9-72
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:31:19-59
+activity#com.cwp.cmoneycharge.Description
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:32:9-79
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.cwp.cmoneycharge.Income
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:33:9-74
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:33:19-61
+activity#com.cwp.cmoneycharge.IncomeData
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:34:9-78
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:34:19-65
+activity#com.cwp.cmoneycharge.pictureAdapter
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:35:9-82
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:35:19-69
+activity#com.cwp.cmoneycharge.ViewHolder
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:36:9-78
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:36:19-65
+activity#com.cwp.cmoneycharge.InPtypeManager
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:37:9-82
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:37:19-69
+activity#com.cwp.cmoneycharge.Login
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:38:9-73
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:38:19-60
+activity#com.cwp.cmoneycharge.ModifyInP
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:39:9-77
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:39:19-64
+activity#com.cwp.cmoneycharge.ModifyNote
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:40:9-78
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:40:19-65
+activity#com.cwp.cmoneycharge.Note
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:41:9-72
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:41:19-59
+activity#com.cwp.cmoneycharge.PayData
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:42:9-75
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:42:19-62
+activity#com.cwp.cmoneycharge.Pay
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:43:9-71
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:43:19-58
+activity#com.cwp.cmoneycharge.Register
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:44:9-76
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:44:19-63
+activity#com.cwp.cmoneycharge.PIData
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:45:9-74
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:45:19-61
+activity#com.cwp.cmoneycharge.Setting
+ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:46:9-75
+	android:name
+		ADDED from D:\android\099-基于AndroidStudio+SQlite开发的财务管理系统\099-基于AndroidStudio+SQlite开发的财务管理系统\MoneyCharge\app\src\main\AndroidManifest.xml:46:19-62
